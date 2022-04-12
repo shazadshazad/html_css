@@ -1,0 +1,27 @@
+p {
+    text-align: center;
+}
+
+header {
+    height: 250px;
+    background-color: tomato;
+    margin-bottom: 0px;
+}
+
+nav {
+    height: 150px;
+    background-color: rgb(243, 164, 150);
+    margin-top: 0px;
+}
+
+main {
+    height: 550px;
+    background-color: dodgerblue;
+    margin-top: 0px;
+}
+
+footer {
+    height: 350px;
+    background-color: gold;
+    margin-top: 0px;
+}

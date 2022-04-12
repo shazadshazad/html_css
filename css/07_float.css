@@ -1,0 +1,43 @@
+body {
+    margin: 0 auto;
+    background-color: antiquewhite;
+}
+
+div {
+    width: 90%;
+    margin: 0;
+    background-color: lightsalmon;
+}
+
+p {
+    background-color: mediumaquamarine;
+}
+
+p span {
+    background-color: yellow;
+}
+
+.boite {
+    height: 11vh;
+    width: 18vh;
+    padding: 5vh;
+    background: url(../img/pexels-eberhard-grossgasteiger-1366921.jpg);
+    background-position: center;
+    border: 5px double dodgerblue;
+    margin: 2vh;
+    float: left;
+    transition: 3s;
+}
+
+.boite:hover {
+    margin-top: 10vh;
+    color: red;
+}
+
+.clear {
+    clear: both;
+}
+
+p:hover {
+    color: green;
+}

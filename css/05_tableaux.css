@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+table,
+th,
+td {
+    border: solid 1px black;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    height: 30px;
+    width: 30px;
+}
+
+.yellow {
+    background-color: yellowgreen;
+}
+
+.grey {
+    background-color: grey;
+}
+
+.black {
+    background-color: black;
+}
+
+.blue {
+    background-color: dodgerblue;
+}
