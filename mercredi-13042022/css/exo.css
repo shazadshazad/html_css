@@ -1,0 +1,73 @@
+.container {
+    width: 80%;
+    background: antiquewhite;
+    color: white;
+    margin: 0 auto;
+}
+
+header {
+    background: orangered;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+}
+
+nav {
+    background: pink;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+}
+
+main {
+    height: 500px;
+    background: orange;
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.larger-zone {
+    /* border: 1px solid; */
+    /* float: left; */
+    display: flex;
+    flex-wrap: wrap;
+    height: 50%;
+    width: 50%;
+}
+
+.small-zone {
+    border: 1px solid;
+    float: left;
+    height: 49%;
+    /* line-height: 122px; */
+    text-align: center;
+    width: 49%;
+}
+
+.gold {
+    background: gold;
+}
+
+.dodgerblue {
+    background: dodgerblue;
+}
+
+.palegreen {
+    background: palegreen;
+}
+
+.orange {
+    background: orange;
+}
+
+footer {
+    background: gray;
+    height: 70px;
+    line-height: 70px;
+    text-align: center;
+}
+
+p {
+    margin: 0rem;
+}

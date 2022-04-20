@@ -1,0 +1,70 @@
+body {
+    margin: 0;
+}
+
+nav {
+    background-color: black;
+    color: white;
+    height: 2rem;
+    padding-left: 2rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    margin-right: 3rem;
+    line-height: 2rem;
+}
+
+main.container {
+    margin: auto;
+    width: 1570px;
+    margin-top: 6rem;
+}
+
+.first-section {
+    background-color: antiquewhite;
+    padding: 2rem;
+}
+
+.highlight {
+    background-color: lightpink;
+}
+
+.second-section {
+    background-color: rgba(93, 165, 238, 0.438);
+    padding: 2rem 0;
+    margin-top: 2rem;
+    display: flex;
+    width: 1600px;
+    position: relative;
+    right: 15px;
+}
+
+.bloc {
+    background-color: antiquewhite;
+    width: 45%;
+    padding: 1rem;
+    margin-left: 2rem;
+}
+
+.border {
+    border: 1px solid red;
+}
+
+.important {
+    color: red;
+}
+
+.third-section {
+    background-color: antiquewhite;
+    padding: 2rem;
+    margin-top: 2rem;
+    margin-bottom: 5rem;
+}
